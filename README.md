@@ -14,8 +14,9 @@ Some of the projects I'm maintaining:
 - ⚡ Fun fact: I'm an avid gamer(RPGs, City Builders) and Community Moderator on [Super User](https://superuser.com/users/4377/sathyajith-bhat?tab=profile) and [WebApps Stack Exchange](https://webapps.stackexchange.com/users/310/sathyajith-bhat)
 
 <details>
- <summary>profile views</summary>
- ![stats](https://komarev.com/ghpvc/?username=sathyabhat&color=blue)
+<summary>profile views</summary>
+
+![stats](https://komarev.com/ghpvc/?username=sathyabhat&color=blue)
 
 </details>
 
