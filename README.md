@@ -1,6 +1,6 @@
 ### Welcome
 
-Hi, I’m Sathyajith Bhat. I'm part of Adobe I/O's SRE team, the author of [Practical Docker with Python: Build, Release and Distribute Your Python App with Docker](https://u.sbhat.me/practical-docker-book) published by [Apress Media](https://www.apress.com/gp/book/9781484237830) and an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/).
+Hi, I’m Sathyajith Bhat. I'm part of Adobe API Platform SRE team, the author of [Practical Docker with Python: Build, Release and Distribute Your Python App with Docker](https://u.sbhat.me/practical-docker-book) published by [Apress Media](https://www.apress.com/gp/book/9781484237830) and an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/).
 
 Some of the projects I'm maintaining:
 
