@@ -1,6 +1,6 @@
 ### Welcome
 
-Hi, I’m Sathyajith Bhat. I work on the SRE team runing the API Platform at Adobe. I've written a few books: 
+Hi, I’m Sathyajith Bhat. I work on the SRE team running the API Platform at Adobe. I've written a few books: 
 
 - Practical Docker with Python: Build, Release and Distribute Your Python App with Docker ([first](https://bit.ly/practical-docker-1e) and [second](https://bit.ly/practical-docker-2e) editions)
 - [The CDK Book](https://www.thecdkbook.com/).
