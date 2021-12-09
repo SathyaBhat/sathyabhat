@@ -1,15 +1,20 @@
 ### Welcome
 
-Hi, I’m Sathyajith Bhat. I'm part of Adobe API Platform SRE team, the author of [Practical Docker with Python: Build, Release and Distribute Your Python App with Docker](https://u.sbhat.me/practical-docker-book) published by [Apress Media](https://www.apress.com/gp/book/9781484237830) and an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/).
+Hi, I’m Sathyajith Bhat. I work on the SRE team runing the API Platform at Adobe. I've written a few books: 
 
-Find my projects helpful? You can [buy me a coffee](https://ko-fi.com/sathyabhat)!
+- Practical Docker with Python: Build, Release and Distribute Your Python App with Docker ([first](https://bit.ly/practical-docker-1e) and [second](https://bit.ly/practical-docker-2e) editions)
+- [The CDK Book](https://www.thecdkbook.com/).
 
-Some of the projects I'm maintaining:
+I'm part of the oganizing team for [Bangalore AWS User Group](https://awsugblr.in) and recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/)
+
+Some of the projects I maitain:
 
 - [Spotify-DL](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist
 - [Folding at Home - AWS](https://github.com/SathyaBhat/folding-aws) - Bring up a complete AWS Compute stack with VPC, EC2, and other dependencies using AWS CDK
-- [DevOps Workflow](https://github.com/SathyaBhat/devops-workflow) - Repo for demonstrating a typical "devops" workflow. A typical "devops" workflow consists of build -> test -> validate -> release cycle.
-- [Practical Docker with Python](https://github.com/apress/practical-docker-with-python) - Source code for projects in Practical Docker with Python book
+- [CDK CDN](https://github.com/SathyaBhat/cdk-cdn) - a CDK construct to deploy a CDN on AWS using S3 and CloudFront.
+- [DevOps Workflow](https://github.com/SathyaBhat/devops-workflow) - Repo for demonstrating a typical devops workflow using Ansible, Terraform, Packer and Jenkins. A typical devops workflow consists of build -> test -> validate -> release cycle.
+- [Source code for Practical Docker with Python](https://github.com/apress/practical-docker-with-python) - Source code for projects in Practical Docker with Python book
+- [The CDK Book](https://github.com/cdkbook) - Examples and feedback on the CDK Book.
 
 - 💬 Ask me about AWS, Cloud Computing, Containers, DevOps
 - 📫 How to reach me: [Twitter](https://twitter.com/sathyabhat), [LinkedIn](https://linkedin.com/in/sathyabhat), [email](mailto:github@sathyasays.com)
