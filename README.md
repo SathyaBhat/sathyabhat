@@ -5,7 +5,7 @@ Hi, I’m Sathyajith Bhat. I work on the SRE team runing the API Platform at Ado
 - Practical Docker with Python: Build, Release and Distribute Your Python App with Docker ([first](https://bit.ly/practical-docker-1e) and [second](https://bit.ly/practical-docker-2e) editions)
 - [The CDK Book](https://www.thecdkbook.com/).
 
-I'm part of the oganizing team for [Bangalore AWS User Group](https://awsugblr.in) and recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/)
+I'm part of the organizing team for [Bangalore AWS User Group](https://awsugblr.in) and recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/)
 
 Some of the projects I maitain:
 
