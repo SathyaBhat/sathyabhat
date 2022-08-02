@@ -1,11 +1,34 @@
 ### Welcome
 
-Hi, I’m Sathyajith Bhat. I've worked in various roles over my 15-year career: starting off from writing release notes, creating patches for releases, moved to Oracle Forms & Oracle PL/SQL development, and more recently, Site Reliability Engineering and Cloud Architecture. I'm big fan of Everything-as-Code. I've written a few books: 
+Hi, I’m Sathyajith Bhat. I am an experienced Site Reliability Engineer (SRE) with over 15 years of experience in DevOps, Site Reliability Engineering, System Architecture, Performance Tuning, Infrastructure setup, DBA, Data Conversion and Observability. 
 
-- Practical Docker with Python: Build, Release and Distribute Your Python App with Docker ([first](https://bit.ly/practical-docker-1e) and [second](https://bit.ly/practical-docker-2e) editions)
-- [The CDK Book](https://www.thecdkbook.com/)
+I'm not fanatic about specific tools or services and believe in making the most available out of the tools that I get to work with. I have significant experience in the below services, tools and technologies:
 
-I'm part of the organizing team for [Bangalore AWS User Group](https://awsugblr.in) and recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/).
+Cloud Platforms
+* Amazon Web Services (core compute, networking, database and storage services)
+* Azure (core compute, networking, database and storage services)
+
+Containers & Orchestration
+* Docker
+* Kubernetes
+
+Infrastructure as Code
+* Terraform
+* AWS CDK
+
+Configuration Management
+* Ansible
+* Chef
+
+Observability
+* Prometheus
+* New Relic
+* Splunk
+* Datadog
+
+I am the author of Practical Docker with Python (first & [second edition](https://link.springer.com/book/10.1007/978-1-4842-7815-4)) and co-author of [The CDK Book](https://www.thecdkbook.com/). I work with a lot of different communities and have been recognized as an [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/sathyajith-bhat/). 
+
+I love organizing and running events (physical as well as virtual) and have been part of organizing committee of events such as Barcamp Bangalore, AWS Community Day - Bangalore, India, South Asia, and CDK Day. In my free time I love playing games on my PC and/or Switch (typically ARPGs/City Builders/Simulators) and occasionally livestream gaming and coding on [Twitch](https://www.twitch.tv/sathyabhat).
 
 
 ### Projects I maintain
