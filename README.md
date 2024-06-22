@@ -7,7 +7,8 @@ I'm not fanatic about specific tools or services and believe in making the most 
 Cloud Platforms
 * Amazon Web Services (core compute, networking, database and storage services)
 * Azure (core compute, networking, database and storage services)
-
+* Alibaba Cloud (core compute, networking, database and storage services)
+  
 Containers & Orchestration
 * Docker
 * Kubernetes
@@ -44,5 +45,5 @@ I love organizing and running events (physical as well as virtual) and have been
 
 - 💬 Ask me about AWS, Cloud Computing, Containers, DevOps
 - 📫 How to reach me: [Twitter](https://twitter.com/sathyabhat), [LinkedIn](https://linkedin.com/in/sathyabhat), [email](mailto:github@sathyasays.com)
-- ⚡ Fun fact: I'm an avid gamer(RPGs, City Builders) and Community Moderator on [Super User](https://superuser.com/users/4377/sathyajith-bhat?tab=profile) and [WebApps Stack Exchange](https://webapps.stackexchange.com/users/310/sathyajith-bhat)
+- ⚡ Fun fact: I'm an avid gamer(RPGs, City Builders) and Community Moderator on [Super User](https://superuser.com/users/4377/sathyajith-bhat?tab=profile)
 
